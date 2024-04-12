@@ -1,2 +1,3 @@
 ko co gi
 day la file cua main
+day la file cua w 2
